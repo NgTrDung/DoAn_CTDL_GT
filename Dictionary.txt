@@ -1,0 +1,888 @@
+Department
+noun
+phong ban, bo phan
+restructure
+verb
+tai cau truc
+discuss
+verb
+thao luan
+board
+noun
+bang, ban, bo
+success
+noun
+thanh cong
+grant
+noun
+tro cap
+found
+verb
+thanh lap
+prove
+verb
+chung minh
+trash
+noun
+rac
+permit
+verb
+cho phep
+bring
+verb
+mang den
+entrance
+noun
+cong vao
+replace
+verb
+thay the
+damage
+verb
+ton hai
+lease
+verb
+thue nha
+advise
+verb
+khuyen nhu
+request
+noun
+yeu cau
+decide
+verb
+quyet dinh
+reserve
+verb
+du tru
+private
+adjective
+rieng tu
+unless
+conjunction
+tru khi
+expert
+noun
+chuyen gia
+improve
+verb
+cai thien
+crop
+noun
+gat hai, trong trot
+harvest
+noun
+mua vu
+provide
+verb
+cung cap
+estimate
+verb
+uoc tinh
+expand
+verb
+mo rong
+distribute
+verb
+phan phat
+conserve
+verb
+giu gin, bao ton
+quarter
+noun
+phan tu
+goal
+noun
+muc tieu
+staff
+noun
+nhan vien
+wealthy
+adjective
+giau co
+realistic
+adjective
+thuc te
+interrupt
+verb
+gian doan
+annually
+adverb
+hang nam
+temporarily
+adverb
+mot cach tam thoi
+delight
+noun
+han hoan, vui mung
+receive
+verb
+nhan
+feature
+noun
+dac tinh; lam noi
+notify
+verb
+thong bao
+both
+pronoun
+ca hai
+eligible
+adjective
+dat tieu chuan
+employ
+verb
+thue nhan vien
+reputation
+noun
+danh tieng
+delegate
+noun
+uy nhiem; giao pho
+remind
+verb
+nhac nho
+throughout
+adverb
+trong suot
+construction
+noun
+cong trinh; su thi cong
+caution
+noun
+than trong
+proceed
+verb
+tien hanh
+equal
+adjective
+binh dang; ngang nhau
+divide
+verb
+chia
+committee
+noun
+uy ban
+return
+verb
+tro lai; tra lai
+average
+noun
+trung binh
+ticket
+noun
+ve
+performance
+noun
+man bieu dien; nang suat
+except
+conjunction
+ngoai tru
+despite
+preposition
+cho du
+initiative
+noun
+sang kien
+aim
+noun
+muc tieu; nham den
+transportation
+noun
+van chuyen
+commute
+verb
+di lai
+suburban
+adjective
+ngoai o
+propose
+verb
+de xuat
+executive
+noun 
+dieu hanh
+chef
+noun
+bep truong
+chief
+adjective
+truong phong; lanh dao
+respond
+verb
+tra loi; phan ung
+guest
+noun 
+khach
+suggest
+verb
+goi y; de nghi
+respect
+noun
+ton trong
+negotiate
+verb
+dam phan
+scope
+noun
+pham vi
+turn
+verb
+luot; doi chieu
+challenges
+noun
+thu thach
+aspect
+noun
+dien mao; khia canh
+accept
+verb
+chap nhan
+position
+noun
+vi tri
+salary
+noun
+luong
+satisfy
+verb
+lam hai long
+perhaps
+adverb
+co le
+equipment
+noun
+trang thiet bi
+guide
+noun
+huong dan
+internal
+adjective
+noi bo
+corporate
+adjective
+cong ty
+complain
+verb
+phan nan
+appliance
+noun
+thiet bi
+adopt
+verb
+nhan nuoi; thong qua
+assess
+verb
+danh gia
+quality
+noun
+chat luong
+standard
+noun
+tieu chuan
+institution
+noun
+to chuc
+create
+verb
+tao ra
+calculate
+verb
+tinh toan
+dominate
+verb
+thong tri
+precise
+adjective
+chinh xac; tom luoc
+relative
+noun
+tuong doi
+repair
+verb
+sua
+economy
+noun
+kinh te
+hire
+verb
+thue
+purpose
+noun
+muc dich
+experience
+noun
+kinh nghiem; trai nghiem
+achieve
+verb
+dat duoc
+certification
+noun
+chung nhan
+appropriate
+adjective
+phu hop
+significant
+adjective
+co y nghia; dang ke
+expect
+verb
+trong doi
+complete
+verb
+hoan thanh
+regular
+adjective
+thuong xuyen
+maintain
+verb
+duy tri
+license
+noun
+giay phep
+measure
+verb
+do luong
+reduce
+verb
+giam
+fuel
+noun
+nhien lieu
+expense
+noun
+chi phi
+budget
+noun
+ngan sach
+obligate
+verb
+bat buoc
+attend
+verb
+tham du; tham gia
+urge
+noun
+thuc giuc
+intern
+verb
+thuc tap sinh
+regulation
+noun
+quy dinh
+recently
+adverb
+gan day
+course
+noun
+khoa hoc
+purchase
+verb
+mua
+indicate
+verb
+bieu thi; chi ra
+primary
+adjective
+so cap; chu yeu
+enthusiastic
+adjective
+nhiet tinh
+finance
+noun
+tai chanh
+upcoming
+adjective
+sap toi
+ease
+verb
+xoa diu
+congestion
+noun
+tac nghen
+accommodation
+noun
+cho o
+perform
+verb
+thuc hien; bieu dien
+supplement
+noun
+bo sung
+renovate
+verb
+cai tao
+explain
+verb
+giai thich
+upgrade
+verb
+nang cap
+benefit
+noun
+huong loi
+pay
+verb
+tra tien
+frequent
+adjective
+thuong xuyen
+terminal
+adjective
+phan cuoi; tram ga
+condition
+noun
+dieu kien
+loan
+noun
+vay no
+process
+noun
+tien trinh; xu li
+donate
+verb
+quyen tang
+confess
+verb
+thu nhan
+submit
+verb
+nop; de trinh
+major
+adjective
+chinh
+compliment
+noun
+khen ngoi
+associate 
+verb
+lien ket
+term
+noun
+thuat ngu; dieu khoan
+register
+verb
+dang ky
+require
+verb
+yeu cau
+recommend
+verb
+gioi thieu; khuyen khich
+regardless
+adverb
+bat ke
+bid
+verb
+dau thau
+suit
+noun
+phu hop
+character
+noun
+tinh cach; nhan vat
+popular
+adjective
+pho bien
+relate
+verb
+lien quan
+advertise
+verb
+quang cao
+revise
+verb
+on lai; sua doi
+duplicate
+verb
+ban sao; nhan 2
+clinic
+noun
+phong kham benh tu
+community
+noun
+cong dong
+agent
+noun
+dai ly
+absorb
+verb
+hap thu
+obtain
+verb
+thu duoc; co duoc
+compete
+verb
+canh tranh
+inquire
+verb
+hoi; dieu tra
+claim
+verb
+yeu cau
+remote
+adjective
+mien xa
+region
+noun
+khu vuc
+furthermore
+adverb
+hon nua
+vendor
+noun
+nguoi ban dao
+equip
+verb
+trang bi
+consider
+verb
+xen xet; can nhac; coi la
+record
+verb
+ghi lai; ky luc
+assemble
+verb
+lap rap
+earn
+verb
+kiem duoc; kiem tien
+package
+noun
+buu kien; goi hang
+downstairs
+adverb
+tang duoi
+furnish
+verb
+trang bi noi that
+supervise
+verb
+thu thap
+inspect
+verb
+thanh tra; kiem tra
+inform
+verb
+thong bao
+complain
+verb
+phan nan
+against
+preposition
+chong lai
+confident
+adjective
+tu tin
+firm
+adjective
+cong ty; vung
+merge
+verb
+hop nhat
+magnificent
+adjective
+trang le
+reputable
+adjective
+co uy tin
+organization
+noun
+to chuc; co quan
+accomplish
+verb
+dat duoc; hoan thanh
+resident
+noun
+nguoi dan
+issue
+noun
+van de; cap phat
+concern
+verb
+lo ngai
+poll
+noun
+cuoc tham do y kien
+charge
+verb
+sac dien; tinh phi
+brief
+adjective
+ngan gon; tom tat
+resume
+verb
+so yeu li lich; bat dau
+narrate
+verb
+thuat lai
+determine
+verb
+quyet tam; xac dinh
+coupon
+noun
+phieu mua hang
+perfume
+noun
+nuoc hoa
+closet
+noun
+khung tu; buong nho
+supply
+verb
+cung cap
+contain
+verb
+chua dung
+main
+adjective
+chinh
+acknowledge
+verb
+thua nhan; cong nhan
+participate
+verb
+tham gia vao
+campaign
+noun
+chien dich
+create
+verb
+tao ra
+positive
+adjective
+tich cuc
+negative
+adjective
+tieu cuc
+patient
+noun
+kien nhan; benh nhan
+survey
+noun
+khao sat
+shift
+verb
+ca lam; doi ca
+properly
+adverb
+thich hop; dung
+landscape
+noun
+phong canh
+inspire
+verb
+truyen cam hung
+factory
+noun
+nha may
+council
+noun
+hoi dong
+establish
+verb
+thanh lap
+approach
+verb
+tiep can
+defective
+adjective
+bi loi
+promote
+verb
+thuc day; quang ba
+prevent
+verb
+ngan ngua
+special
+adjective
+dac biet
+essential
+adjective
+thiet yeu; can thiet
+personnel
+noun
+nhan vien
+allow
+verb
+cho phep
+select
+verb
+chon lua
+candidate
+noun
+ung vien
+position
+noun
+vi tri; chuc vu
+qualify
+verb
+du tieu chuan
+apologize
+verb
+xin loi
+brochure
+noun
+cuon sach nho
+deliver
+verb
+giao hang; truyen dat
+praise
+verb
+khen
+attract
+verb
+thu hut
+sensitive
+adjective
+nhay cam
+cover
+verb
+che; bao boc; dam nhan
+retire
+verb
+nghi huu
+launch
+noun
+phong; khoi dau
+treat
+verb
+doi xu; chieu dai
+persuade
+verb
+thuyet phuc
+faculty
+noun
+khoa (DH); giang vien
+lead
+verb
+lanh dao; dan dat
+destination
+noun
+diem den
+ambition
+noun
+tham vong
+intend
+verb
+du dinh
+facility
+noun
+co so vat chat
+expire
+verb
+het han
+regards
+noun
+tran trong; lien quan
+construct
+verb
+xay dung
+merchant
+noun
+nguoi ban hang
+arrive
+verb
+den noi
+credit
+noun
+tin dung
+merchandise
+noun
+hang hoa
+drill
+noun
+khoan
+previous
+adjective
+truoc
+powerful
+adjective
+quyen luc
+entry
+noun
+loi vao
+decorate
+verb
+trang tri
+contest
+noun
+cuoc thi
+solve
+verb
+giai quyet
+stock
+noun
+co phan
+enough
+adverb
+du
+increase
+verb
+tang
+assist
+verb
+ho tro
+attorney
+noun
+luat su
+insure
+verb
+bao dam
+policy
+noun
+chinh sach
+rent
+noun
+thue
+lower
+verb
+thap hon
+author
+noun
+tac gia
+arise
+verb
+phat sinh
+general
+adjective
+tong quan; nhin chung
+president
+noun
+chu tich
+operate
+verb
+dieu hanh; hoat dong
+authority
+noun
+chinh quyen
+form
+verb
+hinh thanh; tao thanh
+location
+noun
+vi tri
+impress
+verb
+gay an tuong
+tend
+verb
+co khuynh huong
+healthy
+adjective
+khoe manh
+describe
+verb
+dien ta
+routine
+noun
+thoi quen
+occasion
+noun
+dip
+refund
+noun
+hoan tra
+satisfy
+verb
+lam thoa man

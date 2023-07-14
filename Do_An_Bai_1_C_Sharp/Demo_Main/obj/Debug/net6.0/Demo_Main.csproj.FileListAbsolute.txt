@@ -1,0 +1,15 @@
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\bin\Debug\net6.0\Demo_Main.exe
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\bin\Debug\net6.0\Demo_Main.deps.json
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\bin\Debug\net6.0\Demo_Main.runtimeconfig.json
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\bin\Debug\net6.0\Demo_Main.dll
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\bin\Debug\net6.0\Demo_Main.pdb
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\obj\Debug\net6.0\Demo_Main.csproj.AssemblyReference.cache
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\obj\Debug\net6.0\Demo_Main.GeneratedMSBuildEditorConfig.editorconfig
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\obj\Debug\net6.0\Demo_Main.AssemblyInfoInputs.cache
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\obj\Debug\net6.0\Demo_Main.AssemblyInfo.cs
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\obj\Debug\net6.0\Demo_Main.csproj.CoreCompileInputs.cache
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\obj\Debug\net6.0\Demo_Main.dll
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\obj\Debug\net6.0\refint\Demo_Main.dll
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\obj\Debug\net6.0\Demo_Main.pdb
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\obj\Debug\net6.0\Demo_Main.genruntimeconfig.cache
+F:\Onedrive\OneDrive - hcmute.edu.vn\Desktop\Do_An_Bai_1_C_Sharp\Demo_Main\obj\Debug\net6.0\ref\Demo_Main.dll
